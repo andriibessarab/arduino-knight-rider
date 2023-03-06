@@ -1,5 +1,5 @@
 ## Knight Rider Arduino Project
-[](https://i.ibb.co/VSnZGSP/knight-rider-tinkercad.png)
+![](https://i.ibb.co/VSnZGSP/knight-rider-tinkercad.png)
 This project was developed by Andrii Bessarab, a student at Country Day School, as part of the TEG3M course with Arduino. The project involves the implementation of a Knight Rider-inspired LED circuit that illuminates a sequence of LEDs in a specific pattern.
 
 ### Project Overview
